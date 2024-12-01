@@ -1,2 +1,2 @@
 # raspberry_metal
-Кeal-time metal crack detector
+Real-time metal crack detector
