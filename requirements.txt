@@ -1,0 +1,6 @@
+picamera2
+numpy
+sounddevice
+ultralytics
+opencv-python
+playsound
